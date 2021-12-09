@@ -160,8 +160,7 @@ public class JavaApplication1 {
         }
         System.out.println(acount);      
         System.out.println("A partir de aquí, trabajando con Git.");      
-                
-                
+        System.out.println("Eliminar esta línea.");
             
                 
                 
